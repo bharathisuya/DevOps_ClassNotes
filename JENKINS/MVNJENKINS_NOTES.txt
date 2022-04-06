@@ -19,7 +19,7 @@ SEE THAT YOU ARE IN ROOT DIRECTORY
 # alternatives --config java
 # vim /etc/profile
 i
-export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.amzn2.0.1.x86_64
+export JAVA_HOME='/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.amzn2.0.1.x86_64'
 export PATH=$JAVA_HOME/bin:$PATH
 ESC :wq!
 # source /etc/profile
